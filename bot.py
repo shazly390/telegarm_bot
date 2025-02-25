@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
-TOKEN = "7440114756:AAGIBIz0F-Rn07JNQLbo10OayrrMmcdFBo8"
+TOKEN = "7365555261:AAHiMK_gZbL4eA4ZCgUbYbWr9kBUPHgr2NQ"
 ADMIN_ID = 123456789  # ضع هنا ID المشرف
 
 async def start(update: Update, context: CallbackContext):
